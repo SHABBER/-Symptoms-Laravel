@@ -1,0 +1,9 @@
+.alpha-list {
+    margin-left: 5px;
+    background-color: #cedeea57;
+    color: #000;
+}
+.alpha-list:hover {
+    color: #fff;
+    background-color: #0a58ca;
+}
