@@ -1,7 +1,7 @@
 # Symptoms-Laravel
 Created a web-based interface where users can input a list of symptoms separated by commas (e.g., "Fever, Headache, Cough, Fatigue"). Display the sorted and grouped list of symptoms on the same page.
 
-<h2>Project Setup</h2>
+<h2>Project Setup and Usage Instructions</h2>
 
 1. Begin by cloning the project from the Git repository and navigate to the project directory.
 2. Run the "composer update" command to ensure dependencies are up-to-date.
