@@ -12,6 +12,6 @@ Created a web-based interface where users can input a list of symptoms separated
 7. To populate the database with sample data, launch the Laravel Tinker shell using the "php artisan tinker" command. Then, run the command "Symptom::factory()->count(500)->create()" to generate 500 fake entries in the "symptoms" table.
 8. Access the symptoms page by navigating to {base_url}/symptoms. Replace "base_url" with your actual URL (e.g., http://localhost:8000/symptoms).
 9. On the symptoms page, all symptoms will be listed in alphabetical order. Click on the alphabet navigation to quickly jump to a specific section.
-10. To add new symptoms, enter them in the custom text box, separated by commas. Click the "Add" button, and the new symptoms will be appended to the respective alphabetical list. If a symptom already exists, it will be skipped and not added.
+10. To add new symptoms, enter them in the custom text box, separated by commas. Click the "Add" button, and the new symptoms will be appended to the respective alphabetical list. If a symptom already exists, it will be skipped and not added. 
 
    
